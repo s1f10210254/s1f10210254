@@ -9,10 +9,10 @@
 
 <!-- 3D GitHub Grass Graph -->
 <!-- 注意: 3Dの草グラフはスクリーンショットでの表示になります。 -->
-![GitHub Grass 3D](ここに3D草グラフの画像リンク)
+<!-- ![GitHub Grass 3D](ここに3D草グラフの画像リンク) -->
 
 <!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=s1f10210254&theme=react-dark)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=s1f10210254&theme=react-dark) -->
 
 <!-- GitHub Repository Card -->
 <!-- リポジトリ名は適宜変更してください -->
