@@ -7,6 +7,9 @@
   <img alt="GitHub Stats" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1f10210254&theme=react" />
 </p>
 
+<!-- GitHub Profile Trophy -->
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=s1f10210254&theme=react&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
+
 <!-- 3D GitHub Grass Graph -->
 <!-- 注意: 3Dの草グラフはスクリーンショットでの表示になります。 -->
 <!-- ![GitHub Grass 3D](ここに3D草グラフの画像リンク) -->
@@ -19,5 +22,3 @@
 
 <!-- GitHub Contribution Graph -->
 <!--![GitHub Contribution Graph](https://github-profile-trophy.vercel.app/?username=s1f10210254)-->
-
-
