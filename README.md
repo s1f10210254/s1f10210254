@@ -1,5 +1,3 @@
-<!-- GitHub Profile Summary Card -->
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1f10210254&theme=react)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1f10210254&layout=compact&count_private=true&show_icons=true&theme=onedark" />
