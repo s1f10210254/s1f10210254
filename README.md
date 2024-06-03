@@ -1,14 +1,12 @@
 <!-- GitHub Profile Summary Card -->
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1f10210254&theme=react)
 
-<!-- GitHub Stats & Top Languages -->
-<p align="left">
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1f10210254&layout=compact&count_private=true&show_icons=true&theme=react" />
-  <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=s1f10210254&theme=onedark&show_icons=true&rank_icon=github" />
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1f10210254&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=s1f10210254&count_private=true&show_icons=true&theme=onedark" />
 </p>
 
-<!-- GitHub Profile Trophy -->
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=s1f10210254&theme=react&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
+[![trophy](https://github-profile-trophy.vercel.app/?username=s1f10210254&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
